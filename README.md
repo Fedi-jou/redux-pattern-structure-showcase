@@ -1,3 +1,11 @@
+## This Project is just to showcase the redux pattern and initial file structures and how
+
+## to use Redux , react-redux , thunks , middleware
+
+### some components with react redux hooks and others are with mapStateToProps / mapDispatchToProp
+
+### to cover the different ways for components to interact with the store..reducer.actions...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
